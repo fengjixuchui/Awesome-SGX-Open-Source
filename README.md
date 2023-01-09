@@ -172,6 +172,8 @@ SGX-OpenSSL (SGX-Tor Project):
 
 Rust:
 
+- EigenCC: Confidential Computation: [https://github.com/0xEigenLabs/eigencc](https://github.com/0xEigenLabs/eigencc)
+
 - [https://github.com/baidu/rust-sgx-sdk](https://github.com/baidu/rust-sgx-sdk)
 
 - [https://github.com/fortanix/rust-sgx](https://github.com/fortanix/rust-sgx)
@@ -394,6 +396,9 @@ GNU Multiple Precision Arithmetic Trusted Library for Intel SGX:
 
 ## Applications
 
+BastionLab: a simple framework for privacy-friendly data science collaboration:
+[https://github.com/mithril-security/bastionlab](https://github.com/mithril-security/bastionlab)
+
 180Protocol: Confidential compute for sensitive data sharing and commercial collaboration:
 [https://github.com/180Protocol/180protocol](https://github.com/180Protocol/180protocol)
 
@@ -455,6 +460,9 @@ Securing Storage Encryption:
 [https://github.com/ayeks/TresorSGX](https://github.com/ayeks/TresorSGX)
 
 ## Network
+
+Towards A TEE-based V2V Protocol For Connected And Autonomous Vehicles:
+[https://github.com/OSUSecLab/v2v-sgx-prelim](https://github.com/OSUSecLab/v2v-sgx-prelim)
 
 TrustedGateway: TEE-Assisted Routing and Firewall Enforcement Using ARM TrustZone (RAID 2022):
 [https://github.com/trugw](https://github.com/trugw)
@@ -624,6 +632,9 @@ Protect Audit-Log via Sqlite (EuroSys 2018):
 [https://github.com/lsds/LibSEAL](https://github.com/lsds/LibSEAL)
 
 ## Distributed Systems
+
+Confidential Containers Operator: deploying and managing Confidential Containers Runtime on Kubernetes clusters:
+[https://github.com/confidential-containers/operator](https://github.com/confidential-containers/operator)
 
 Oak: Meaningful Control of Data in Distributed Systems:
 [https://github.com/project-oak/oak](https://github.com/project-oak/oak)
@@ -893,6 +904,12 @@ SGX-Timing: Cache Attacks on Intel SGX (EuroSec 2017)
 
 ## Beyond SGX Enclave Projects
 
+Cerberus: A Formal Approach to Secure and Efficient Enclave Memory Sharing (CCS 2022):
+[https://github.com/cerberus-ccs22/TAPC](https://github.com/cerberus-ccs22/TAPC)
+
+Elasticlave: An Efficient Memory Model for Enclaves (USENIX Security 2022):
+[https://github.com/jasonyu1996/elasticlave](https://github.com/jasonyu1996/elasticlave)
+
 TwinVisor: Hardware-isolated Confidential Virtual Machines for ARM (SOSP 2021):
 [https://github.com/TwinVisor](https://github.com/TwinVisor)
 
@@ -921,6 +938,9 @@ mTower: designed for MicroController Units (MCUs) that support ARM TrustZone:
 [https://github.com/Samsung/mTower](https://github.com/Samsung/mTower)
 
 ## Other TEEs
+
+Linux Security Hardening for Confidential Compute:
+[https://github.com/intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
 
 ARMv9 CCA + Samsung ISLET: enable on-device confidential computing for end users on ARM devices:
 [https://github.com/Samsung/islet](https://github.com/Samsung/islet)
