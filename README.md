@@ -49,6 +49,9 @@ Inclavare: a confidential container for cloud-native confidential computing and 
 Enarx: Confidential Computing with WebAssembly:
 [https://github.com/enarx/enarx](https://github.com/enarx/enarx)
 
+enclaive.io: Building confidential containers for the cloud:
+[https://github.com/enclaive](https://github.com/enclaive)
+
 Conclave SDK is an open source platform that makes working with SGX enclaves easy:
 [https://github.com/R3Conclave/conclave-core-sdk](https://github.com/R3Conclave/conclave-core-sdk)
 
@@ -100,6 +103,9 @@ Panoply: Low-TCB Linux Applications with SGX Enclaves:
 [https://github.com/shwetasshinde24/Panoply](https://github.com/shwetasshinde24/Panoply)
 
 ## Remote Attestation (RA) and Secure Channels
+
+Veraison: Project Veraison creates software components that can be used to build an Attestation Verification Service:
+[https://github.com/veraison](https://github.com/veraison)
 
 OpenEmbedded layer for the use cases on secure boot, integrity and encryption:
 [https://github.com/jiazhang0/meta-secure-core](https://github.com/jiazhang0/meta-secure-core)
@@ -230,6 +236,9 @@ PSec: Programming Language for Creating Secure Distributed Systems leveraging In
 [https://github.com/ShivKushwah/PSec](https://github.com/ShivKushwah/PSec)
 
 ## Blockchains
+
+A Ledger-backed Secure Key-Value store (LSKV), built on the Confidential Consortium Framework (CCF):
+[https://github.com/microsoft/LSKV](https://github.com/microsoft/LSKV)
 
 Twilight: A Differentially Private Payment Channel Network (USENIX Security 2022):
 [https://github.com/saart/Twilight](https://github.com/saart/Twilight)
@@ -396,6 +405,9 @@ GNU Multiple Precision Arithmetic Trusted Library for Intel SGX:
 
 ## Applications
 
+CACIC: Providing Secure and Customizable IoT Data Access Policies with SGX:
+[https://github.com/GTA-UFRJ/CACIC-Use-Case](https://github.com/GTA-UFRJ/CACIC-Use-Case)
+
 BastionLab: a simple framework for privacy-friendly data science collaboration:
 [https://github.com/mithril-security/bastionlab](https://github.com/mithril-security/bastionlab)
 
@@ -460,6 +472,9 @@ Securing Storage Encryption:
 [https://github.com/ayeks/TresorSGX](https://github.com/ayeks/TresorSGX)
 
 ## Network
+
+Setheum - Powering Scalable Web3 Solutions:
+[https://github.com/Setheum-Labs/Setheum](https://github.com/Setheum-Labs/Setheum)
 
 Towards A TEE-based V2V Protocol For Connected And Autonomous Vehicles:
 [https://github.com/OSUSecLab/v2v-sgx-prelim](https://github.com/OSUSecLab/v2v-sgx-prelim)
@@ -632,6 +647,9 @@ Protect Audit-Log via Sqlite (EuroSys 2018):
 [https://github.com/lsds/LibSEAL](https://github.com/lsds/LibSEAL)
 
 ## Distributed Systems
+
+uBFT: Microsecond-scale BFT using Disaggregated Memory (ASPLOS 2023):
+[https://github.com/LPD-EPFL/ubft](https://github.com/LPD-EPFL/ubft)
 
 Confidential Containers Operator: deploying and managing Confidential Containers Runtime on Kubernetes clusters:
 [https://github.com/confidential-containers/operator](https://github.com/confidential-containers/operator)
@@ -818,6 +836,10 @@ Building Distributed Enclave Applications with Sancus and SGX:
 
 ## Attacks
 
+PMFault: Faulting and Bricking Server CPUs through Management Interfaces (CHES 2023), CVE-2022-43309
+
+[https://github.com/zt-chen/PMFault](https://github.com/zt-chen/PMFault)
+
 Rapid Prototyping for Microarchitectural Attacks (USENIX Security 2022)
 
 [https://github.com/libtea/frameworks](https://github.com/libtea/frameworks)
@@ -904,6 +926,9 @@ SGX-Timing: Cache Attacks on Intel SGX (EuroSec 2017)
 
 ## Beyond SGX Enclave Projects
 
+salus: RISC-V micro-hypervisor for TEE development:
+[https://github.com/rivosinc/salus/](https://github.com/rivosinc/salus/)
+
 Cerberus: A Formal Approach to Secure and Efficient Enclave Memory Sharing (CCS 2022):
 [https://github.com/cerberus-ccs22/TAPC](https://github.com/cerberus-ccs22/TAPC)
 
@@ -939,11 +964,17 @@ mTower: designed for MicroController Units (MCUs) that support ARM TrustZone:
 
 ## Other TEEs
 
-Linux Security Hardening for Confidential Compute:
-[https://github.com/intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+Reference implementation of Arm-CCA RMM specification:
+[https://github.com/TF-RMM/tf-rmm](https://github.com/TF-RMM/tf-rmm)
+
+ARM CCA feature emulation on QEMU:
+[https://github.com/Huawei/Huawei_CCA_QEMU](https://github.com/Huawei/Huawei_CCA_QEMU)
 
 ARMv9 CCA + Samsung ISLET: enable on-device confidential computing for end users on ARM devices:
 [https://github.com/Samsung/islet](https://github.com/Samsung/islet)
+
+Linux Security Hardening for Confidential Compute:
+[https://github.com/intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
 
 AMD SEV-SNP:
 [https://github.com/AMDESE/sev-guest](https://github.com/AMDESE/sev-guest)
