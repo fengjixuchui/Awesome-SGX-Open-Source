@@ -48,6 +48,8 @@
 
 ## Session 1: Towards a Better Enclave Architecture
 
+- Lejacon: A Lightweight and Efficient Approach to Java Confidential Computing on SGX, ICSE 2023
+
 - Cerberus: A Formal Approach to Secure and Efficient Enclave Memory Sharing, CCS 2022
 
 - ShEF: Shielded Enclaves for Cloud FPGAs, ASPLOS 2022
@@ -367,3 +369,4 @@
 
 * [A collection of SGX academic researches categorized by Intel](https://software.intel.com/en-us/sgx/documentation/academic-research)
 * [A collection of SGX papers from Valerio Schiavoni](https://github.com/vschiavoni/sgx-papers)
+* [Enclave Research](https://richardhabeeb.github.io/EnclaveResearch/)
