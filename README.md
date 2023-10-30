@@ -62,6 +62,11 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Remote Attestation (RA) and Secure Channels
 
+- **Formal specification of attestation mechanisms in Confidential Computing** [https://github.com/CCC-Attestation/formal-spec-TEE](https://github.com/CCC-Attestation/formal-spec-TEE)
+- **Certifier Framework for Confidential Computing** [https://github.com/vmware-research/certifier-framework-for-confidential-computing](https://github.com/vmware-research/certifier-framework-for-confidential-computing)
+- **Confidential VM Platform Guest attestation** [https://github.com/Azure/confidential-computing-cvm-guest-attestation](https://github.com/Azure/confidential-computing-cvm-guest-attestation)
+- **Calculate AMD SEV/SEV-ES/SEV-SNP measurement for confidential computing** [https://github.com/virtee/sev-snp-measure](https://github.com/virtee/sev-snp-measure)
+- **A library for Confidential Computing Architecture (CCA) Attestation Token** [https://github.com/veraison/ccatoken](https://github.com/veraison/ccatoken)
 - **Veraison: Project Veraison creates software components that can be used to build an Attestation Verification Service** [https://github.com/veraison](https://github.com/veraison)
 - **OpenEmbedded layer for the use cases on secure boot, integrity and encryption** [https://github.com/jiazhang0/meta-secure-core](https://github.com/jiazhang0/meta-secure-core)
 - **MAGE: Mutual Attestation for a Group of Enclaves without Trusted Third Parties (USENIX Security 2022)** [https://github.com/donnod/linux-sgx-mage](https://github.com/donnod/linux-sgx-mage)
@@ -108,6 +113,8 @@ A curated list of academic work from top conferences: [link](https://github.com/
   - **MesaPy: A Memory-Safe Python Implementation based on PyPy** [https://github.com/mesalock-linux/mesapy](https://github.com/mesalock-linux/mesapy)
   - **Python binder for SGX SDK** [https://github.com/adombeck/python-sgx](https://github.com/adombeck/python-sgx)
 - **Golang**
+  - **TamaGo - ARM/RISC-V bare metal Go** [https://github.com/usbarmory/tamago](https://github.com/usbarmory/tamago)
+  - **Go Trusted Execution Environment (TEE)** [https://github.com/usbarmory/GoTEE](https://github.com/usbarmory/GoTEE)
   - **EGo: a framework for building confidential apps in Go** [https://github.com/edgelesssys/ego](https://github.com/edgelesssys/ego)
   - **Golang** [https://github.com/intel/GrapheneSGX-Golang-Support-and-Enhancement](https://github.com/intel/GrapheneSGX-Golang-Support-and-Enhancement)
   - **Golang binder** [https://github.com/rupc/go-with-intel-sgx](https://github.com/rupc/go-with-intel-sgx) 
@@ -121,6 +128,9 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Blockchains
 
+- **Fidelius: YeeZ Privacy Protection for Data Collaboration** [https://github.com/YeeZTech/YeeZ-Privacy-Computing](https://github.com/YeeZTech/YeeZ-Privacy-Computing)
+- **SDK for [Switchboard](https://docs.switchboard.xyz/)'s secure enclave computing** [https://github.com/switchboard-xyz/sgx-sdk](https://github.com/switchboard-xyz/sgx-sdk)
+- **Secret.NET is a .NET Client to interact with the Secret Network blockchain** [https://github.com/0xxCodemonkey/SecretNET](https://github.com/0xxCodemonkey/SecretNET)
 - **A Ledger-backed Secure Key-Value store (LSKV), built on the Confidential Consortium Framework (CCF)** [https://github.com/microsoft/LSKV](https://github.com/microsoft/LSKV)
 - **Twilight: A Differentially Private Payment Channel Network (USENIX Security 2022)** [https://github.com/saart/Twilight](https://github.com/saart/Twilight)
 - **Ethernity Cloud Node** [https://github.com/ethernity-cloud/mvp-pox-node](https://github.com/ethernity-cloud/mvp-pox-node)
@@ -148,8 +158,10 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Machine Learning
 
+- **Machine learning inference in trusted execution environment build from SGX** [https://github.com/Luke20000429/Trusted-ML-SGX](https://github.com/Luke20000429/Trusted-ML-SGX)
 - **Azure Bicep/ARM template to quickly deploy standalone secure research environments** [https://github.com/microsoft/Azure-Secure-Enclave-for-Research](https://github.com/microsoft/Azure-Secure-Enclave-for-Research)
 - **SOTER: Guarding Black-box Inference for General Neural Networks at the Edge (ATC 2022)** [https://github.com/hku-systems/SOTER](https://github.com/hku-systems/SOTER)
+- **Privacy-preserving Federated Learning with Trusted Execution Environments (MobiSys 2021)** [https://github.com/mofanv/PPFL](https://github.com/mofanv/PPFL)
 - **TF-Encrypted: A Framework for Encrypted Machine Learning in TensorFlow** [https://github.com/tf-encrypted/tf-encrypted](https://github.com/tf-encrypted/tf-encrypted)
 - **BigDL Privacy Preserving Machine Learning** [https://github.com/intel-analytics/BigDL](https://github.com/intel-analytics/BigDL)
 - **BlindAI: Fast, accessible and privacy friendly AI deployment** [https://github.com/mithril-security/blindai](https://github.com/mithril-security/blindai)
@@ -174,6 +186,8 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Common Libraries
 
+- **A framework to run Fully Homomorphic Encryption computations (especially using the SEAL library) on Trusted Execution Environments** [https://github.com/zkFHE/FHE-in-TEE](https://github.com/zkFHE/FHE-in-TEE)
+- **A library to orchestrate interoperable Data Cleaning Services using Intel SGX based Containers** [https://github.com/qascade/dcr](https://github.com/qascade/dcr)
 - **DarkProto Threshold Cryptosystem** [https://github.com/andrcmdr/darkproto-proposal](https://github.com/andrcmdr/darkproto-proposal)
 - **Enclave Memory Manager** [https://github.com/intel/sgx-emm](https://github.com/intel/sgx-emm)
 - **VRF-enhanced random number source running inside enclaves** [https://github.com/smartbch/enclave-vrf](https://github.com/smartbch/enclave-vrf)
@@ -186,6 +200,7 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Applications
 
+- **Data Clean Room (GSSoC 2023)** [https://github.com/qascade/dcr](https://github.com/qascade/dcr)
 - **CACIC: Providing Secure and Customizable IoT Data Access Policies with SGX** [https://github.com/GTA-UFRJ/CACIC-Use-Case](https://github.com/GTA-UFRJ/CACIC-Use-Case)
 - **BastionLab: a simple framework for privacy-friendly data science collaboration** [https://github.com/mithril-security/bastionlab](https://github.com/mithril-security/bastionlab)
 - **180Protocol: Confidential compute for sensitive data sharing and commercial collaboration** [https://github.com/180Protocol/180protocol](https://github.com/180Protocol/180protocol)
@@ -201,7 +216,7 @@ A curated list of academic work from top conferences: [link](https://github.com/
 - **SMac: Secure Genotype Imputation in Intel SGX** [https://github.com/ndokmai/sgx-genotype-imputation](https://github.com/ndokmai/sgx-genotype-imputation)
 - **SGXKaller: Private Contact Discovery Service** [https://github.com/Arslan8/SGXKaller](https://github.com/Arslan8/SGXKaller)
 - **Achieving Reconciliation between Privacy Preservation and Auditability For File Hosting (Intel SGX + IPFS + Hyperledger Fabric)** [https://github.com/wuliangshun/SGX-base-File-Hosting](https://github.com/wuliangshun/SGX-base-File-Hosting)
-- **bwa-sgx-scone: a parallel privacy preserved** [BWA](https://github.com/lh3/bwa)(DNA sequence alignment) solution using Intel SGX and SCONE** [https://github.com/dsc-sgx/bwa-sgx-scone](https://github.com/dsc-sgx/bwa-sgx-scone)
+- **bwa-sgx-scone: a parallel privacy preserved [BWA](https://github.com/lh3/bwa)(DNA sequence alignment) solution using Intel SGX and SCONE** [https://github.com/dsc-sgx/bwa-sgx-scone](https://github.com/dsc-sgx/bwa-sgx-scone)
 - **Bioinformatic Interpreter with Intel SGX** [https://github.com/hello31337/BI-SGX](https://github.com/hello31337/BI-SGX)
 - **C3PO: providing security functions for Open Mobile Evolved Core (OMEC)** [https://github.com/omec-project/c3po](https://github.com/omec-project/c3po)
 - **SafeTrace: Privacy Preserving Voluntary COVID-19 Self-Reporting Platform for Contact Tracing** [https://github.com/enigmampc/SafeTrace](https://github.com/enigmampc/SafeTrace)
@@ -211,6 +226,7 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Network
 
+- **Priority load balancer with retries, and SGX RA-TLS support** [https://github.com/flashbots/prio-load-balancer](https://github.com/flashbots/prio-load-balancer)
 - **Setheum - Powering Scalable Web3 Solutions** [https://github.com/Setheum-Labs/Setheum](https://github.com/Setheum-Labs/Setheum)
 - **Towards A TEE-based V2V Protocol For Connected And Autonomous Vehicles** [https://github.com/OSUSecLab/v2v-sgx-prelim](https://github.com/OSUSecLab/v2v-sgx-prelim)
 - **TrustedGateway: TEE-Assisted Routing and Firewall Enforcement Using ARM TrustZone (RAID 2022)** [https://github.com/trugw](https://github.com/trugw)
@@ -232,6 +248,7 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Data Analytics
 
+- **Constructing Trusted Execution Environment (TEE) with GCP Confidential Space** [https://github.com/salrashid123/confidential_space](https://github.com/salrashid123/confidential_space)
 - **SecretFlow: A unified framework for privacy-preserving data analysis and machine learning** [https://github.com/secretflow/secretflow](https://github.com/secretflow/secretflow)
 - **MC2: A Platform for Secure Analytics and Machine Learning** [https://github.com/mc2-project/mc2](https://github.com/mc2-project/mc2)
 - **Opaque: An encrypted data analytics platform (NSDI 2017)** [https://github.com/mc2-project/opaque-sql](https://github.com/mc2-project/opaque-sql)
@@ -270,6 +287,7 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Encrypted Databases and Key-value Stores
 
+- **HEDB: Towards A Secure Yet Maintainable Encrypted Database (OSDI 2023)** [https://github.com/SJTU-IPADS/HEDB](https://github.com/SJTU-IPADS/HEDB)
 - **memcached-sgx** [https://github.com/Yuhala/memcached-sgx](https://github.com/Yuhala/memcached-sgx)
 - **EdgelessDB: a MySQL-compatible database running entirely inside SGX enclaves** [https://github.com/edgelesssys/edgelessdb](https://github.com/edgelesssys/edgelessdb)
 - **Avocado: a secure distributed in-memory key-value store (USENIX ATC 2021)** [https://github.com/mbailleu/avocado](https://github.com/mbailleu/avocado)
@@ -282,6 +300,7 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Distributed Systems
 
+- **Intel Technology Enabling for OpenShift** [https://github.com/intel/intel-technology-enabling-for-openshift](https://github.com/intel/intel-technology-enabling-for-openshift)
 - **Dissecting BFT Consensus: In Trusted Components we Trust (EuroSys 2023)** [https://github.com/msadoghi/resdb-sgx-eurosys](https://github.com/msadoghi/resdb-sgx-eurosys)
 - **uBFT: Microsecond-scale BFT using Disaggregated Memory (ASPLOS 2023)** [https://github.com/LPD-EPFL/ubft](https://github.com/LPD-EPFL/ubft)
 - **Byzantine-fault tolerant pessimistic lock manager with Intel SGX** [https://github.com/shangsuru/verifiable-lockmanager](https://github.com/shangsuru/verifiable-lockmanager)
@@ -310,6 +329,7 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Performance
 
+- **SGX Switchless Calls Made Configless (DSN 2023)**[https://gitlab.com/Yuhala/zc-switchless](https://gitlab.com/Yuhala/zc-switchless)
 - **rkt-io: Library OS for running Linux applications inside of Intel SGX enclaves (EuroSys 2021)** [https://github.com/Mic92/rkt-io](https://github.com/Mic92/rkt-io)
 - **Flume: a blazingly fast multi-producer, multi-consumer channel** [https://github.com/occlum/flume](https://github.com/occlum/flume)
 - **Actor model for better Enclave IPC (Middleware 2018)** [https://github.com/ibr-ds/EActors](https://github.com/ibr-ds/EActors)
@@ -325,6 +345,8 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Defenses
 
+- **TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments (ISCA 2023)** [https://github.com/MoeinGhaniyoun/TEESec](https://github.com/MoeinGhaniyoun/TEESec)
+- **Linux Security Hardening for Confidential Compute** [https://github.com/intel/ccc-linux-guest-hardening#requirements](https://github.com/intel/ccc-linux-guest-hardening)
 - **Hacking Valgrind to use it on Rust SGX enclave** [https://github.com/mithril-security/valgrind](https://github.com/mithril-security/valgrind)
 - **Enclyzer: Automated Analysis of Transient Data Leaks for Intel SGX** [https://github.com/bloaryth/enclyzer](https://github.com/bloaryth/enclyzer)
 - **SgxMonitor (ACSAC 2022)** [https://github.com/tregua87/sgxmonitor-artifact](https://github.com/tregua87/sgxmonitor-artifact)
@@ -388,15 +410,19 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Beyond SGX Enclave Projects
 
+- **Confidential Computing Consortium Governance** [https://github.com/confidential-computing/governance](https://github.com/confidential-computing/governance)
+- **Confidential Cloud Native Primitives (CCNP)** [https://github.com/intel/confidential-cloud-native-primitives](https://github.com/intel/confidential-cloud-native-primitives)
+- **MIG Partition Editor for NVIDIA GPUs** [https://github.com/NVIDIA/mig-parted](https://github.com/NVIDIA/mig-parted)
 - **Linux SVSM (Secure VM Service Module) for AMD SEV-SNP in Rust** [https://github.com/AMDESE/linux-svsm](https://github.com/AMDESE/linux-svsm)
+- **Blindbox: SaaS solutions that preserve your users' data privacy.** [https://github.com/mithril-security/blindbox](https://github.com/mithril-security/blindbox)
 - **salus: RISC-V micro-hypervisor for TEE development** [https://github.com/rivosinc/salus/](https://github.com/rivosinc/salus/)
 - **Cerberus: A Formal Approach to Secure and Efficient Enclave Memory Sharing (CCS 2022)** [https://github.com/cerberus-ccs22/TAPC](https://github.com/cerberus-ccs22/TAPC)
 - **Elasticlave: An Efficient Memory Model for Enclaves (USENIX Security 2022)** [https://github.com/jasonyu1996/elasticlave](https://github.com/jasonyu1996/elasticlave)
 - **TwinVisor: Hardware-isolated Confidential Virtual Machines for ARM (SOSP 2021)** [https://github.com/TwinVisor](https://github.com/TwinVisor)
 - **Kata Containers** [https://github.com/kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)
 - **AWS Nitro Enclaves: CPU and memory isolation for Amazon EC2 instances using Nitro Hypervisor** [https://github.com/aws/aws-nitro-enclaves-cli](https://github.com/aws/aws-nitro-enclaves-cli)
+- **Evervault Cages** [https://github.com/evervault/cages](https://github.com/evervault/cages)
 - **TD-shim: Confidential Containers Shim Firmware** [https://github.com/confidential-containers/td-shim](https://github.com/confidential-containers/td-shim)
-- **AMD SEV-SNP measurement** [https://github.com/IBM/sev-snp-measure](https://github.com/IBM/sev-snp-measure)
 - **Key Broker Server for SEV(-ES)** [https://github.com/confidential-containers/simple-kbs](https://github.com/confidential-containers/simple-kbs)
 - **A dynamic library providing Virtualization-based process isolation capabilities, also capable of creating TEEs using AMD SEV(-ES)** [https://github.com/containers/libkrun](https://github.com/containers/libkrun)
 - **Smart Object Oriented: Mobile Entities Migration Between Smart Objects For Fully Decentralized and Autonomous Embedded Systems** [https://github.com/smartobjectoriented/soo](https://github.com/smartobjectoriented/soo)
@@ -404,10 +430,11 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Other TEEs
 
+- **PenglaiZone** [https://github.com/Penglai-Enclave/PenglaiZone](https://github.com/Penglai-Enclave/PenglaiZone)
+- **nvTrust: NVIDIA Confidential Computing Ancillary Software** [https://github.com/NVIDIA/nvtrust](https://github.com/NVIDIA/nvtrust)
 - **Reference implementation of Arm-CCA RMM specification** [https://github.com/TF-RMM/tf-rmm](https://github.com/TF-RMM/tf-rmm)
 - **ARM CCA feature emulation on QEMU** [https://github.com/Huawei/Huawei_CCA_QEMU](https://github.com/Huawei/Huawei_CCA_QEMU)
 - **ARMv9 CCA + Samsung ISLET: enable on-device confidential computing for end users on ARM devices** [https://github.com/Samsung/islet](https://github.com/Samsung/islet)
-- **Linux Security Hardening for Confidential Compute** [https://github.com/intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
 - **AMD SEV-SNP** [https://github.com/AMDESE/sev-guest](https://github.com/AMDESE/sev-guest)
 - **Intel TDX** [https://github.com/intel/tdx-tools](https://github.com/intel/tdx-tools)
 - **Secure Processing Unit (SPU), a provable, measurable secure computation device** [https://github.com/secretflow/spu](https://github.com/secretflow/spu)
@@ -416,3 +443,4 @@ A curated list of academic work from top conferences: [link](https://github.com/
 - **A Lightweight Trusted Execution Environment for Secure IoT Devices (CCS 2021)** [https://github.com/sancus-tee](https://github.com/sancus-tee)
 - **Keystone: An Open-Source Secure Enclave Framework for RISC-V Processors (EuroSys 2020)** [https://github.com/keystone-enclave/keystone](https://github.com/keystone-enclave/keystone)
 - **MultiZone Security TEE for RISC-V processors** [https://github.com/hex-five/multizone-sdk](https://github.com/hex-five/multizone-sdk)
+- **MultiZone Trusted Firmware** [https://github.com/hex-five/multizone-iot-sdk](https://github.com/hex-five/multizone-iot-sdk)
