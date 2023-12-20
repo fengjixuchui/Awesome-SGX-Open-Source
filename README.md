@@ -161,6 +161,7 @@ A curated list of academic work from top conferences: [link](https://github.com/
 - **Machine learning inference in trusted execution environment build from SGX** [https://github.com/Luke20000429/Trusted-ML-SGX](https://github.com/Luke20000429/Trusted-ML-SGX)
 - **Azure Bicep/ARM template to quickly deploy standalone secure research environments** [https://github.com/microsoft/Azure-Secure-Enclave-for-Research](https://github.com/microsoft/Azure-Secure-Enclave-for-Research)
 - **SOTER: Guarding Black-box Inference for General Neural Networks at the Edge (ATC 2022)** [https://github.com/hku-systems/SOTER](https://github.com/hku-systems/SOTER)
+- **FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism (INFOCOM 2021)** [https://github.com/H-W-Huang/FedServing](https://github.com/H-W-Huang/FedServing)
 - **Privacy-preserving Federated Learning with Trusted Execution Environments (MobiSys 2021)** [https://github.com/mofanv/PPFL](https://github.com/mofanv/PPFL)
 - **TF-Encrypted: A Framework for Encrypted Machine Learning in TensorFlow** [https://github.com/tf-encrypted/tf-encrypted](https://github.com/tf-encrypted/tf-encrypted)
 - **BigDL Privacy Preserving Machine Learning** [https://github.com/intel-analytics/BigDL](https://github.com/intel-analytics/BigDL)
@@ -200,11 +201,13 @@ A curated list of academic work from top conferences: [link](https://github.com/
 
 ## Applications
 
+- **Secure Silo Database System with Intel SGX** [https://github.com/Noxy3301/CASSA](https://github.com/Noxy3301/CASSA)
 - **Data Clean Room (GSSoC 2023)** [https://github.com/qascade/dcr](https://github.com/qascade/dcr)
 - **CACIC: Providing Secure and Customizable IoT Data Access Policies with SGX** [https://github.com/GTA-UFRJ/CACIC-Use-Case](https://github.com/GTA-UFRJ/CACIC-Use-Case)
 - **BastionLab: a simple framework for privacy-friendly data science collaboration** [https://github.com/mithril-security/bastionlab](https://github.com/mithril-security/bastionlab)
 - **180Protocol: Confidential compute for sensitive data sharing and commercial collaboration** [https://github.com/180Protocol/180protocol](https://github.com/180Protocol/180protocol)
 - **Secure and Lightweight Deduplicated Storage via Shielded Deduplication-Before-Encryption (ATC 2022)** [https://github.com/yzr95924/DEBE](https://github.com/yzr95924/DEBE)
+- **TEEKAP: Self-Expiring Data Capsule using Trusted Execution Environment (ACSAC 2021)** [https://github.com/MingyuanGao/TEEKAP](https://github.com/MingyuanGao/TEEKAP)
 - **Intel SGX Module for the passpharse key derivation module of GenesisDrive** [https://github.com/VRTeamgenesis/GenesisDrive-SGX](https://github.com/VRTeamgenesis/GenesisDrive-SGX)
 - **Verifiable Election** [https://github.com/davidgmorais/verifiable-election](https://github.com/davidgmorais/verifiable-election)
 - **Rex: SGX decentralized recommender (IEEE IPDPS 2022)** [https://github.com/rafaelppires/rex](https://github.com/rafaelppires/rex)
